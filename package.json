@@ -1,0 +1,19 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "Simple business task manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "ejs": "*",
+    "express": "*",
+    "morgan": "*",
+    "redis": "*"
+  },
+  "author": "Aneesha Panigrahi",
+  "license": "ISC"
+}
